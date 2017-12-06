@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>index</title>
-	<!--박서영이최고야--!>
+	<!-- 박서영이최고야 --!>
 </head>
 <body>
 
